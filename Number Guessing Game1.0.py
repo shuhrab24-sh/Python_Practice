@@ -1,7 +1,5 @@
 # Number Guessing Game 
-
 import random
-
 start_number = int(input("Where you start: "))
 end_number = int(input("Where you end: "))
 number = random.randint(start_number,end_number)
